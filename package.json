@@ -57,7 +57,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^5.1.1",
     "node-plop": "^0.30.0",
-    "plop": "^2.7.6",
+    "plop": "^3.0.1",
     "prettier": "^2.5.0",
     "prettier-eslint": "^13.0.0",
     "slugify": "^1.6.3",
