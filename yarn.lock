@@ -223,9 +223,9 @@
   integrity sha512-Klz949h02Gz2uZCMGwDUSDS1YBlTdDDgbWHi+81l29tQALUtvz4rAYi5uoVhE5Lagoq6DeqAUlbrHvW/mXDgdQ==
 
 "@types/node@*":
-  version "16.11.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.11.tgz#6ea7342dfb379ea1210835bada87b3c512120234"
-  integrity sha512-KB0sixD67CeecHC33MYn+eYARkqTheIRNuu97y2XMjR7Wu3XibO1vaY6VBV6O/a89SPI81cEUIYT87UqUWlZNw==
+  version "16.11.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.12.tgz#ac7fb693ac587ee182c3780c26eb65546a1a3c10"
+  integrity sha512-+2Iggwg7PxoO5Kyhvsq9VarmPbIelXP070HMImEpbtGCoyWNINQj4wzjbQCXzdHTRXnqufutJb5KAURZANNBAw==
 
 "@types/rimraf@^3.0.2":
   version "3.0.2"
@@ -708,9 +708,9 @@ cli-spinners@^2.5.0, cli-spinners@^2.6.0:
   integrity sha512-x/5fWmGMnbKQAaNwN+UZlV79qBLM9JFnJuJ03gIi5whrob0xV0ofNVHy9DhwGdsMJQc2OKv0oGmLzvaqvAVv+g==
 
 cli-testing-library@^1.0.0-alpha.10:
-  version "1.0.0-alpha.10"
-  resolved "https://registry.yarnpkg.com/cli-testing-library/-/cli-testing-library-1.0.0-alpha.10.tgz#97a5689a37d2a57c5c964575e491a7dd41d98b0b"
-  integrity sha512-hO1oZPOf3qxSi5V2x+5eXpQlI8akbRAwRdR3kyIWzyDms5jNoLL85//mYQGRPwrlbXlQz+YkH0ZxcHeS0wx1Pw==
+  version "1.0.0-alpha.12"
+  resolved "https://registry.yarnpkg.com/cli-testing-library/-/cli-testing-library-1.0.0-alpha.12.tgz#27ab3126bed67b379b603a9d6d7b25bb0e69f946"
+  integrity sha512-ZSR9IrTt7Yts2au/2wDzoqiwjfGpnhO3YTOg83NX0PY9kJdjb7eGiXSlLZoYjg+N4Czk82UXzPAadFtqpSHsew==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
@@ -1681,9 +1681,9 @@ is-interactive@^2.0.0:
   integrity sha512-qP1vozQRI+BMOPcjFzrjXuQvdak2pHNUMZoeG2eRbiSqyvbEf/wQtEOTOX1guk6E3t36RkaqiSt8A/6YElNxLQ==
 
 is-negative-zero@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/is-negative-zero/-/is-negative-zero-2.0.1.tgz#3de746c18dda2319241a53675908d8f766f11c24"
-  integrity sha512-2z6JzQvZRa9A2Y7xC6dQQm4FSTSTNWjKIYYTt4246eMTJmIo0Q+ZyOsU66X8lxK1AbB92dFeglPLrhwpeRKO6w==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/is-negative-zero/-/is-negative-zero-2.0.2.tgz#7bf6f03a28003b8b3965de3ac26f664d765f3150"
+  integrity sha512-dqJvarLawXsFbNDeJW7zAz8ItJ9cd28YufuuFzh0G8pNHjJMnY08Dv7sYX2uF5UpQOwieAeOExEYAWWfu7ZZUA==
 
 is-number-object@^1.0.4:
   version "1.0.6"
@@ -1764,11 +1764,11 @@ is-unicode-supported@^1.1.0:
   integrity sha512-lDcxivp8TJpLG75/DpatAqNzOpDPSpED8XNtrpBHTdQ2InQ1PbW78jhwSxyxhhu+xbVSast2X38bwj8atwoUQA==
 
 is-weakref@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/is-weakref/-/is-weakref-1.0.1.tgz#842dba4ec17fa9ac9850df2d6efbc1737274f2a2"
-  integrity sha512-b2jKc2pQZjaeFYWEf7ScFj+Be1I+PXmlu572Q8coTXZ+LD/QQZ7ShPMst8h16riVgyXTQwUsFEl74mDvc/3MHQ==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/is-weakref/-/is-weakref-1.0.2.tgz#9529f383a9338205e89765e0392efc2f100f06f2"
+  integrity sha512-qctsuLZmIQ0+vSSMfoVvyFe2+GSEvnmZ2ezTup1SBse9+twCCeial6EEi3Nc2KFcf6+qz2FBPnjXsk8xhKSaPQ==
   dependencies:
-    call-bind "^1.0.0"
+    call-bind "^1.0.2"
 
 is-windows@^1.0.1:
   version "1.0.2"
@@ -2777,9 +2777,9 @@ typescript@^4.5.3:
   integrity sha512-eVYaEHALSt+s9LbvgEv4Ef+Tdq7hBiIZgii12xXJnukryt3pMgJf6aKhoCZ3FWQsu6sydEnkg11fYXLzhLBjeQ==
 
 uglify-js@^3.1.4:
-  version "3.14.4"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.14.4.tgz#68756f17d1b90b9d289341736cb9a567d6882f90"
-  integrity sha512-AbiSR44J0GoCeV81+oxcy/jDOElO2Bx3d0MfQCUShq7JRXaM4KtQopZsq2vFv8bCq2yMaGrw1FgygUd03RyRDA==
+  version "3.14.5"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.14.5.tgz#cdabb7d4954231d80cb4a927654c4655e51f4859"
+  integrity sha512-qZukoSxOG0urUTvjc2ERMTcAy+BiFh3weWAkeurLwjrCba73poHmG3E36XEjd/JGukMzwTL7uCxZiAexj8ppvQ==
 
 unbox-primitive@^1.0.1:
   version "1.0.1"
